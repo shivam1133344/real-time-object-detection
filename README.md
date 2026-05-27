@@ -1,5 +1,7 @@
 # Real-Time Object Detection using YOLOv8
+# Project Screenshot
 
+![output](output.png)
 ## Features
 - Real-time webcam detection
 - Multi-object detection
