@@ -5,7 +5,6 @@
 
 ![Output](output.png)
 ## Features
-- Real-time webcam detection
 - Multi-object detection
 - Bounding boxes
 - Confidence scores
